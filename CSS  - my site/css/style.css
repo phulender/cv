@@ -1,0 +1,131 @@
+body{
+  text-align: center;
+  color: #27496d;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #ffffff;
+}
+h1{
+  width: 50%;
+  margin: 0 auto;
+color: #222831;
+}
+.hr{
+  border-top: none;
+  border-bottom: dotted;
+  margin: auto;
+  width: 5%;
+}
+
+.top-container{
+background-color: powderblue;
+margin: auto;
+width: 100%;
+}
+.image-mountain{
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+.middle-container{
+  width: 100%;
+  position: relative;
+  margin: auto;
+}
+.pic{
+  height: 200px;
+  width: 200px;
+}
+.Dev{
+  text-decoration: underline;
+}
+.IoT{
+  height: 200px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.skill{
+  width: 50%;
+  position: relative;
+  margin: 100px auto 0 auto;
+  align-items: center;
+
+}
+.h1{
+  margin: auto;
+  font-size: 50px;
+font-family: 'Federo', sans-serif;
+}
+.para{
+  font-size: 30px;
+}
+.txt{
+  width: 50%;
+  margin: 10px auto 100px auto;
+  font-family: 'Mada', sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+}
+.txt1{
+  width: 50%;
+  margin: 10px auto 50px auto;
+  font-family: 'Mada', sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+}
+.h2{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  font-size: 40px;
+}
+.h3{
+  width: 30%;
+  margin: 20px auto 0 auto;
+  }
+.button-container{
+  width: 50%;
+  margin-bottom: 50px;
+}
+.footer-link{
+  padding: 30px 30px 30px 30px;
+}
+.h33{
+  width: 30%;
+  margin: 10px auto 5px auto;
+}
+.footer{
+  width: 100%;
+  background-color: #222831;
+  align-items: center;
+  line-height: 2;
+}
+.btn {
+	-moz-box-shadow:inset -2px -3px 14px -3px #000000;
+	-webkit-box-shadow:inset -2px -3px 14px -3px #000000;
+	box-shadow:inset -2px -3px 14px -3px #000000;
+	background-color:#222831;
+	-webkit-border-radius:11px;
+	-moz-border-radius:11px;
+	border-radius:11px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:8px 8px;
+	text-decoration:none;
+	text-shadow:1px 4px 13px #000000;
+  margin-bottom: 50px;
+}
+.btn:hover {
+	background-color:#27496d;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
